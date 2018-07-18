@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Youtube Playlist</string>
+
+
+    <string name="API_KEY">AIzaSyDEOOhnDithKXGo7OdJCQCxZlb8u81_aBU</string>
+    <string name="CHANNEL_ID">UCN_V791tLlk1DwJhV0_5tLQ</string>
+
+</resources>
